@@ -95,9 +95,9 @@ To this point, there is no-more futher planned development in schedule, however 
 
 ## Acknowledgements
 
-Thanks so much to Adrian at [Javascript Mastery](https://jsmastery.pro), I got a chance to ramp up my web developer skills with react. Adrian has a cool way to write code while teaching (as in he literaly explains what every line of code does; way to go Adrian).
+Thanks so much to Adrian at [Javascript Mastery](https://jsmastery.pro), I got a chance to ramp up my web developer skills with react. Adrian has a cool way to write code while teaching (as in he literally explains what every line of code does; way to go Adrian).
 Am proud to also have made meaningful use of my time to learn this react in next.js via this tutotial.
-Am greatful for the AI technology Chat GPT. it explains in detail difficult to undertand concepts, generates code samples to emphasise on discussions and more. Thanks to Open AI.
+Am greatful for the AI technology Chat GPT. The AI explains in detail difficult to undertand concepts, generates code samples to emphasise on discussions and more. Thanks to Open AI.
 
 ## Learn More
 
