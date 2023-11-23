@@ -81,7 +81,7 @@ export default function Component({ props }) {
 
 ### Continued development
 
-To this point, there is no-more futher planned development in schedule, however if any developer of user of the app has a request, they can reach me at [my website - portfolio.jaweki.com](https://portfolio.jaweki.com).
+To this point, there is no-more futher planned development in schedule, however if any developer or user of the app has a request, they can reach me at [my website - portfolio.jaweki.com](https://portfolio.jaweki.com).
 
 ### Useful rescources
 
