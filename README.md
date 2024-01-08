@@ -6,7 +6,7 @@ This solution is a next.js tutorial app. By functionality, it's an open-source A
 
 - [Overview](#overview)
   - [Getting Started](#getting-started)
-  - [Screenshot](#screenshot)
+  - [Screenshot](#screenshot) 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
