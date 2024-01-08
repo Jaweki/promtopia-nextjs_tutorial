@@ -91,7 +91,7 @@ To this point, there is no-more futher planned development in schedule, however 
 
 ## Author
 
-- Website - [Jack Weru | Jaweki](https://portfolio.jaweki.com)
+- Website - [Jack Weru Kioni | Jaweki](https://portfolio.jaweki.com)
 
 ## Acknowledgements
 
